@@ -1,0 +1,2 @@
+BuildPath=C:\Users\pearson2\Documents\Build\rr-chrome-nightly-develop-20170811-154852-4dbf785-Build-455
+Version=3.1.0.0

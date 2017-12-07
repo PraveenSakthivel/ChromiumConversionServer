@@ -1,0 +1,5 @@
+CFBundleDisplayName = "nwjs";
+CFBundleGetInfoString = "nwjs 59.0.3071.115, Copyright 2017 The Chromium Authors, NW.js contributors, Node.js. All rights reserved.";
+CFBundleName = "nwjs";
+NSContactsUsageDescription = "‏يمكن أن تساعد التفاصيل الواردة من جهات اتصالك في ملء النماذج بسرعة في Chromium.";
+NSHumanReadableCopyright = "Copyright 2017 The Chromium Authors, NW.js contributors, Node.js. All rights reserved.";
